@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "405973322465",
+    "project_id": "florist-668ef",
+    "storage_bucket": "florist-668ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405973322465:android:ac7cd1414ee17cd90705a0",
+        "android_client_info": {
+          "package_name": "com.florist.florist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405973322465-e99dbc3u46c9njcu4e1erlp8dpht2mhh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.florist.florist",
+            "certificate_hash": "79254603bb096bc9d35443137bcc50eaf86df89d"
+          }
+        },
+        {
+          "client_id": "405973322465-l4sf8lokf3q78htnit6arrk85p2u2v0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtOM4MQAAiuOo8kI6A-zM7bq0vJnSpwas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405973322465-l4sf8lokf3q78htnit6arrk85p2u2v0s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "405973322465-3e1m9eje5bnpkbu115k4entpn5nv562m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.florist.florist"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
